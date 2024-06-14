@@ -1,0 +1,183 @@
+body{
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+
+  
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 2% 5%;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+p{
+    font-size: 125%;
+    text-align: center;
+}
+img{
+    width: 30%;
+    height: 30%;
+
+}
+
+
+
+
+/*ESTILO PARA PAGINA "CURSOS/*
+
+/* Estilos para o corpo da página */
+body {
+    color: white; /* Cor do texto */
+    background-color: black; /* Cor de fundo */
+    font-family: Arial, Helvetica, sans-serif; /* Tipo de fonte */
+    /* Adicione um comentário aqui para descrever os estilos aplicados ao corpo da página */
+}
+
+/* Estilos para a lista de navegação */
+ul {
+    display: flex; /* Exibe os itens da lista como um flex container */
+    justify-content: space-between; /* Distribui os itens uniformemente ao longo do eixo principal */
+    list-style-type: none; /* Remove a estilização padrão de marcadores */
+    align-items: center; /* Alinha os itens verticalmente ao centro */
+    padding: 2% 5%; /* Preenchimento interno */
+    /* Adicione um comentário aqui para descrever os estilos aplicados à lista de navegação */
+}
+
+/* Estilos para os links na lista de navegação */
+a {
+    color: white; /* Cor do texto */
+    text-decoration: none; /* Remove o sublinhado padrão */
+    /* Adicione um comentário aqui para descrever os estilos aplicados aos links */
+}
+
+/* Estilos para a barra de navegação */
+nav {
+    margin-bottom: 50px; /* Adiciona espaço abaixo da barra de navegação */
+    /* Adicione um comentário aqui para descrever os estilos aplicados à barra de navegação */
+}
+
+/* Estilos para as imagens */
+img {
+    width: 30%; /* Largura da imagem */
+    height: 30%; /* Altura da imagem */
+    /* Adicione um comentário aqui para descrever os estilos aplicados às imagens */
+}
+
+/* Estilos para os cabeçalhos e parágrafos */
+h2, p {
+    padding-left: 200px; /* Adiciona espaçamento à esquerda */
+    padding-right: 200px; /* Adiciona espaçamento à direita */
+    /* Adicione um comentário aqui para descrever os estilos aplicados aos cabeçalhos e parágrafos */
+}
+
+/* Estilos para a linha horizontal */
+hr {
+    border: none; /* Remove a borda */
+    border-top: 2px solid white; /* Cor e espessura da linha */
+    width: 80%; /* Largura da linha */
+    margin: 20px auto; /* Margem acima e abaixo da linha */
+    margin-bottom: 50px; /* Margem abaixo da linha */
+    /* Adicione um comentário aqui para descrever os estilos aplicados à linha horizontal */
+}
+
+/* Estilos para o contêiner dos botões */
+.buttons {
+    display: flex; /* Exibe os botões como um contêiner flexível */
+    justify-content: center; /* Alinha os botões horizontalmente ao centro */
+    margin-top: 10px; /* Margem superior */
+    /* Adicione um comentário aqui para descrever os estilos aplicados ao contêiner dos botões */
+}
+
+/* Estilos para os botões */
+.button {
+    padding: 10px 20px; /* Preenchimento interno */
+    background-color: #007bff; /* Cor de fundo */
+    color: #fff; /* Cor do texto */
+    text-decoration: none; /* Remove o sublinhado */
+    border: none; /* Remove a borda */
+    border-radius: 5px; /* Cantos arredondados */
+    cursor: pointer; /* Cursor de ponteiro */
+    margin: 0 2.5cm; /* Margem */
+    /* Adicione um comentário aqui para descrever os estilos aplicados aos botões */
+}
+
+/* Estilos para o estado de hover dos botões */
+.button:hover {
+    background-color: #0056b3; /* Cor de fundo ao passar o cursor */
+    /* Adicione um comentário aqui para descrever os estilos aplicados ao estado de hover dos botões */
+}
+
+
+/*ESTILO PARA PAGINA UNIVERSIDADES*/
+body{
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+width: 40%;
+height: 50%;
+padding: 0% 30%;
+}
+
+figcaption{
+    text-align: center;
+    padding: 1%;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 2% 5%;}
+    a{
+        color: white;
+        text-decoration: none;
+    }
+    h1{
+        text-align: center;
+    }
+h3{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+/*ESTILO PARA PAGINA PROGRAMAS DO GOVERNO*/
+body{
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0% 5%;
+}
+img{
+    width:30% ;
+    height: 30%;
+   padding: 0% 35%;}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 2% 5%;}
+    a{
+        color: white;
+        text-decoration: none;
+    }
+    p{
+        text-align: center
+    }
